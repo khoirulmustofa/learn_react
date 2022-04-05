@@ -1,3 +1,10 @@
+<<<<<<< Updated upstream
+=======
+# List Belajar React
+1. Hello React Js and What jsx
+2. Component and Props
+
+>>>>>>> Stashed changes
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
